@@ -1,8 +1,5 @@
 # Breast Cancer Prediction Using Decision Tree and LIME
 
-## Description
-This repository contains the code and documentation for the project "Breast Cancer Prediction Using Decision Tree and LIME." The project focuses on developing a machine learning model to predict the likelihood of breast cancer and utilizing Local Interpretable Model-agnostic Explanations (LIME) to interpret the model's predictions. This project was developed by Ayush Parag Shah (219301533), Tarush Batra (219301449), and Siddharth Sharma (219301173) as part of the CSE CS3270 course.
-
 ## Introduction
 Breast cancer is a significant health issue, with early detection being crucial for effective treatment and improved survival rates. Machine learning models can provide valuable assistance in predicting the likelihood of breast cancer, aiding healthcare professionals in diagnosis and treatment planning. This project focuses on developing a breast cancer prediction model using a Decision Tree classifier and employing LIME to interpret the model's predictions.
 
